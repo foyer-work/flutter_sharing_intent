@@ -37,6 +37,6 @@ flutter:
       android:
         package: com.techind.flutter_sharing_intent
         pluginClass: FlutterSharingIntentPlugin
-      ios:
-        pluginClass: FlutterSharingIntentPlugin
+      # ios:
+      #   pluginClass: FlutterSharingIntentPlugin
 
